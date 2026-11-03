@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://binder-medical.example.com/sitemap.xml
